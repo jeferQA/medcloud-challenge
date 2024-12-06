@@ -1,3 +1,9 @@
+<h1>Para executar a automação localmente</h1>
+<li>Baixar o repositório</li>
+<li>Na pasta do projeto, instalar suas dependencias via "npm install"</li>
+<li>Para executar a automação em modo headless, executar o comando "npm run cypress:all"</li>
+<li>Para executar a automação com o navegador aberto, executar o comando "npx cypress open" e selecionar as specs desejadas</li>
+
 ![logo medcloud-03 white copy](https://user-images.githubusercontent.com/46347123/158176045-de9fefb0-35e2-4515-83ff-c132608aa870.png)
 
 About Medcloud:
